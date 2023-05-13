@@ -1,0 +1,25 @@
+2023-05-13 13:18:37,111 - simple_example - INFO - b'alex' is now connected
+2023-05-13 13:21:32,832 - simple_example - INFO - Chat server started on port : 5023
+2023-05-13 13:21:35,626 - simple_example - INFO - Chat server started on port : 5023
+2023-05-13 13:21:40,801 - simple_example - INFO - Chat server started on port : 5023
+2023-05-13 13:21:47,516 - simple_example - INFO - Chat server started on port : 5023
+2023-05-13 13:21:50,495 - simple_example - INFO - Chat server started on port : 5023
+2023-05-13 13:22:01,354 - simple_example - INFO - b'Alex heheh' is now connected
+2023-05-13 13:35:33,988 - simple_example - INFO - Chat server started on port : 5023
+2023-05-13 13:36:13,424 - simple_example - INFO - b'Alex' is now connected
+2023-05-13 13:36:22,087 - simple_example - INFO - b'Gena' is now connected
+2023-05-13 13:36:26,351 - simple_example - INFO - b'Gena' spoke
+2023-05-13 13:36:33,878 - simple_example - INFO - b'Alex' spoke
+2023-05-13 13:36:40,024 - simple_example - INFO - b'Alex' spoke
+2023-05-13 13:36:45,308 - simple_example - INFO - b'Gena' spoke
+2023-05-13 13:36:46,760 - simple_example - INFO - b'Gena' spoke
+2023-05-13 13:36:48,099 - simple_example - INFO - b'Gena' spoke
+2023-05-13 13:38:55,168 - simple_example - INFO - b'Alex' spoke
+2023-05-13 13:38:55,722 - simple_example - INFO - b'Alex' spoke
+2023-05-13 13:38:55,964 - simple_example - INFO - b'Alex' spoke
+2023-05-13 13:38:56,177 - simple_example - INFO - b'Alex' spoke
+2023-05-13 13:38:56,342 - simple_example - INFO - b'Alex' spoke
+2023-05-13 13:38:56,543 - simple_example - INFO - b'Alex' spoke
+2023-05-13 13:38:56,745 - simple_example - INFO - b'Alex' spoke
+2023-05-13 13:38:57,485 - simple_example - INFO - b'Alex' spoke
+2023-05-13 13:39:04,041 - simple_example - INFO - b'Gena' spoke
